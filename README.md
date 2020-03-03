@@ -2,6 +2,9 @@
 - SuiCon International 2020
   - https://www.suicon.com/
 
+# Mirror
+- https://true-runes.github.io/suicon-international-2020/
+
 # wget
 
 ```bash
