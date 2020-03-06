@@ -2,6 +2,9 @@
 - SuiCon International 2020
   - https://www.suicon.com/
 
+# 日本語訳共同編集シート
+- https://docs.google.com/spreadsheets/d/13ki5tmhhLI394_B8JARvUUqhaQW9ugEC/edit#gid=333595223
+
 # Mirror
 - https://true-runes.github.io/suicon-international-2020/
 
